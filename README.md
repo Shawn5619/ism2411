@@ -24,3 +24,16 @@ Each script is standalone. Open a terminal and run:
 ```
 python week07/functions.py
 ```
+## Reflection
+
+1
+
+My commit history shows the work I completed and the changes I made. It helps keep my work organized.
+
+2
+
+Git helps me save my work as I make changes. If I make a mistake I can look and check any older versions
+
+3
+
+I would add .venv/ to my .gitignore because it stores Python files that are only needed on my computer. so they dont get added to git github
