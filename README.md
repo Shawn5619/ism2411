@@ -1,56 +1,26 @@
-# ISM2411
+# ISM2411 — Python for Business
 
-# 
+**Name:** Shawn Tran
 
-# \*\*Author:\*\* Shawn Tran
+**Semester:** Fall 2026
 
-# 
+**Instructor:**  Markum Reed
 
-# \## About This Repository
+## About This Repo
 
-# 
+This repository contains my weekly lab submissions for ISM2411.
+Each folder corresponds to one module.
 
-# This repository contains my coursework, assignments, and programming exercises for ISM2411.
+## Modules
 
-# 
+- `week05/` — Conditionals: tiered discount calculator
+- `week06/` — Loops: sales report with sum, average, max
+- `week07/` — Functions: calculate_tax, apply_discount
+- `week08/` — Git: first GitHub submission
 
-# \## Course Topics
+## How to Run
 
-# 
-
-# Python programming
-
-# Data analysis
-
-# Programming fundamentals
-
-# Git and GitHub version control
-
-# 
-
-# \## Repository Structure
-
-# 
-
-# \- `week05/` - Weekly coursework
-
-# \- `week06/` - Weekly coursework
-
-# \- `week07/` - Weekly coursework
-
-# \- `week08/` - Weekly coursework
-
-# 
-
-# \## Tools Used
-
-# 
-
-# \- Python
-
-# \- Git
-
-# \- GitHub
-
-# \- Visual Studio Code
-
+Each script is standalone. Open a terminal and run:
+```
+python week07/functions.py
+```
